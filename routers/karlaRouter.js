@@ -1,4 +1,4 @@
-const Players = require("../models").player;
+const Players = require("../models").karla;
 const { Router } = require("express");
 require("dotenv").config();
 const router = new Router();
